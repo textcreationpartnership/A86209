@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made by King Henry the 8th. To the House of Commons the 23. of December, 1546. And in the 38. yeare of his raigne.</title>
+            <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86209</idno>
+            <idno type="STC">Wing H1473</idno>
+            <idno type="STC">Thomason E200_40</idno>
+            <idno type="STC">ESTC R8748</idno>
+            <idno type="EEBO-CITATION">99873384</idno>
+            <idno type="PROQUEST">99873384</idno>
+            <idno type="VID">157580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157580)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made by King Henry the 8th. To the House of Commons the 23. of December, 1546. And in the 38. yeare of his raigne.</title>
+                  <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+                  <author>Henry VIII, King of England, 1491-1547.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Blackmore, at the signe of the Angell in Pauls Churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variant: ornament is upside-down with smoother edge at bottom.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1509-1547 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157580:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <p>A SPEECH MADE BY KING <hi>HENRY</hi> THE 8<hi rend="sup">th.</hi>
+            </p>
+            <p>To the Houſe of COMMONS the 23. of <hi>December,</hi> 1546. And in the 38. yeare of his Raigne.</p>
+            <p>LONDON; Printed for <hi>Edward Blackmore,</hi> at the ſigne of the Angell in <hi>Pauls Churchyard.</hi> 1642</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157580:2"/>
+            <!-- PDF PAGE 25 -->
+            <pb n="1" facs="tcp:157580:2"/>
+            <!-- PDF PAGE 25 -->
+            <head>A SPEECH MADE BY KING <hi>HENRY</hi> THE 8<hi rend="sup">th.</hi>
+            </head>
+            <head type="sub">
+               <hi>To the Houſe of COMMONS</hi> 
+               <date>the 23. of<hi>December,</hi> 1546. and in the  38. yeare of his Raigne.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough my Chauncellor for the time being, hath before this time uſed very eloquently, and ſubſtantially to make anſwer to ſuch O<g ref="char:EOLhyphen"/>rations, as hath beene ſet forth in this high Court of Parliament, yet is he not ſo able to open and ſet forth my mind and meaning, and the ſecrets of my heart in ſo plain &amp; am<g ref="char:EOLhyphen"/>ple a manner, as I my ſelfe am, and can doe: wherefore I ta<g ref="char:EOLhyphen"/>king upon me to anſwer your eloquent Oration Mr. Speaker, ſay that where you, in the name of our beloved Commons, have both prayſed and extolled me, for the notable quality that you have conceived to be in mee, I moſt heartily thanke you all, that you have put me in remembrance of my duty, which is
+<pb n="2" facs="tcp:157580:3"/>
+               <!-- PDF PAGE 26 -->
+to endeavour my ſelfe to obtaine, and get ſuch excellent qua<g ref="char:EOLhyphen"/>lities and neceſſary vertues, as a Prince or Governor ſhould, and ought to have, of which gifts I recogniſe my ſelfe both bare and barren, but of ſuch ſmall qualities as God hath indewed me withall: I render to his goodneſſe my moſt humble thankes, intending withall my wit and diligence, to get and acquire to me ſuch notable vertues, and princely qualities, as you have al<g ref="char:EOLhyphen"/>ledged to be incorporated in my perſon: theſe thanks for your loving admonition and good counſell firſt remembred, I eft<g ref="char:EOLhyphen"/>ſoones thanke you againe, becauſe that you conſidering our great chardge, not for our pleaſure, but for our defence, nor for our gaine, but to our great coſt, which wee have lately ſuſ<g ref="char:EOLhyphen"/>tained, as well in defence of your and our enemies, as for the Conqueſt of that Fortreſſe, which was to this Realme moſt diſpleaſant and noyſome, and ſhall be by Gods grace hereafter to our nation moſt profitable and pleaſant, have freely of your owne minds granted to us a certaine ſubſidie here in an act ſpecified, which verely wee take in good part, regarding more your kindn<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe, then the profit thereof; as hee that ſetteth more by your loving hearts then by your ſubſtance: Beſides, this hearty kindneſſe I cannot a little rejoyce, when I conſider the perfect truſt, and confidence, which you have put in mee, as men having undoubted hope, and unfained beleefe in my good doings, and juſt proceedings for you, without my deſire or re<g ref="char:EOLhyphen"/>queſt, have committed to mine order and diſpoſitions, all Chan<g ref="char:EOLhyphen"/>tries, Colledges, Hoſpitals, and other places ſpecified, in a cer<g ref="char:EOLhyphen"/>taine act, firmely truſting that I will order them to the glory of God, and the profit of the Common-wealth: Surely if I contrary to your expectation ſhould ſuffer the Miniſters of the Church to decay, or Learning, which is ſo great a Iuell to bee miniſhed, or poore and miſerable to be unreleeved, you might ſay, that I being put in ſo ſpeciall a truſt, as I am in this caſe, were no truſty friend to you, nor charitable to mine, even Chri<g ref="char:EOLhyphen"/>ſtian, neither a Lover of the publicke wealth, nor yet one that feared God, to whom account muſt be rendred of all our do<g ref="char:EOLhyphen"/>ings; doubt not I pray you, but your expectation ſhall be ſer<g ref="char:EOLhyphen"/>ved
+<pb n="3" facs="tcp:157580:3"/>
+               <!-- PDF PAGE 26 -->
+more godly and goodly, then you will wiſh or deſire, as hereafter you ſhall plainely perceive; now, ſithence I find ſuch kindneſſe on your part towards mee; I cannot chuſe, but love and favour you; affirming, that no Prince in the world more favoureth his ſubjects then I doe you, nor no ſubjects, or Com<g ref="char:EOLhyphen"/>mons more loved and obeyed their Soveraigne Lord, then I perceive you doe me; for whoſe defence my treaſure ſhall not be hidden, nor if neceſſity require my perſon ſhall not be unad<g ref="char:EOLhyphen"/>ventured; yet although I wiſh you, and you wiſh me to be in this perfect love and concord: This friendly amity cannot continue, except both you my Lords Temporall, and my Lords Spirituall; and you my loving ſubjects ſtudie and take pains to amend one thing, which ſurely is amiſſe, and farre out of order (to which I muſt heartily require you, which is that Cha<g ref="char:EOLhyphen"/>rity and Concord is not among you, but diſorder and diſſention beareth rule in every place. Saint <hi>Paul</hi> ſaith to the <hi>Corinthians,</hi> in the 13. <hi>ch. Charity is gentle, Charity is not envious, Charity is not proud,</hi> and ſo forth, in the ſaid Chapter. Behold then, what Love and Charity is among you, when the one calleth a<g ref="char:EOLhyphen"/>nother Heretick, and Anabaptiſt, and hee calleth him againe Papiſt, Hypocrit, and Phariſee; be theſe tokens of Charity a<g ref="char:EOLhyphen"/>mongſt you, are theſe ſignes of fraternate love between you, no, no, I aſſure you that this lacke of Charity amongſt your ſelves, will be the hinderance, and aſſwaging of the fervent love betweene us, as I ſaid before: Except this wound be ſal<g ref="char:EOLhyphen"/>ved, and clearely made whole. I muſt needs Iudge the fault, and occaſion of this diſcord, to be partly by negligence of you, the Fathers and Preachers of the ſpirituality; for if I know a man which liveth in Adultery, I muſt judge him a lecherous, and a carnall perſon, if I ſee a man boaſt and brag himſelfe, I cannot but deeme him a proud man: I ſee here daily that you of the Clergy preach one againſt another, teach one contrary to another, envy one againſt another without Charity or diſcre<g ref="char:EOLhyphen"/>tion; ſome be too ſtiffe in their old <hi>Mumpſimus,</hi> other be too uſie and curious in their new <hi>Sumpſimus:</hi> Thus all men al<g ref="char:EOLhyphen"/>moſt bee in variety and diſcord, and few or no preaching truly
+<pb n="4" facs="tcp:157580:4"/>
+               <!-- PDF PAGE 27 -->
+and ſincerely the word of God, according as they ought to doe, ſhall judge you charitable perſons doing this; no, no, I cannot ſo doe: alas, how can the poore ſoules live in concords, when you Preachers ſow amongſt them in your Sermons de<g ref="char:EOLhyphen"/>bate and diſcord: of you they looke for light, and you bring them to darkeneſſe. Amend theſe crimes I exhort you, and ſet out Gods word, both by true preaching, and good example-giving, or elſe I whom God hath appointed his Vicar, and high, Miniſter here, will ſee theſe diviſions extinct, and theſe enormi<g ref="char:EOLhyphen"/>ties corrected, according to my very duty, or elſe I am an un<g ref="char:EOLhyphen"/>profitable ſervant, and an untrue Officer: although I ſay the ſpirituall men be in ſome fault, that Charity is not kept amongſt you, yet you of the temporality be not clear &amp; unſpotted of ma<g ref="char:EOLhyphen"/>lice and envy, for you rayle on Biſhops, ſpeake ſcandalouſly of Prieſts, and rebuke and taunt Preachers, both contrary to good order, and Chriſtian fraternity, if you know ſurely that a Bi<g ref="char:EOLhyphen"/>ſhop or Preacher erreth or teacheth perverſe doctrine, come and declare it to ſome of our Councell, or to us, to whom is committed by God the high authority to reforme and order ſuch cauſes and behaviours, and be not Iudges your ſelves of your fantaſtick opinions, and vaine expoſitions: for in ſuch high cauſes you may lightly erre; and although you be permitted to reade Holy Scripture, and to have the word of God in your mother tongue, you muſt underſtand it is licenſed you ſo to doe, only to informe your owne conſciences, and inſtruct your chil<g ref="char:EOLhyphen"/>dren and family, and not to diſpute and make Scripture a rayling and taunting ſtock againſt Prieſt and Preachers, as many light perſons doe, I am very ſorry to know and heare, how unreve<g ref="char:EOLhyphen"/>rently that moſt precious Iuell, the word of God is diſputed, rymed, ſung and jangled in every Ale-houſe and Taverne, con<g ref="char:EOLhyphen"/>trary to the true meaning and doctrine of the ſame, and yet I am even as much ſorry, that the Readers of the ſame follow it in doing it ſo faintly, and coldly; for of this I am ſure that Charity was never ſo faint amongſt you, and vertuous and godly living was never leſſe uſed, nor God himſelfe amongſt Chriſti<g ref="char:EOLhyphen"/>ans was never leſſe reverenced, honoured or ſerved, therefore
+<pb n="5" facs="tcp:157580:4"/>
+               <!-- PDF PAGE 27 -->
+as I ſaid before, be in Charity one with another, like brother and brother, love, dread, and fear God, to the which I as your ſuprem Head, and Soveraigne Lord exhort and require you, and then I doubt not but that love and league that I ſpeake of in the begin<g ref="char:EOLhyphen"/>ning ſhall never be diſcouraged, or broken betweene us, ne to the making of Lawes which wee have now made and conclu<g ref="char:EOLhyphen"/>ded: I exhort you the Makers to be as diligent in putting them in execution, as you were in making, and furthering of the ſame: or elſe your labour ſhall be in vaine, and your Com<g ref="char:EOLhyphen"/>mon-wealth nothing releeved: now to your Petition concerning our Royall aſſent to be given to ſuch Acts as hath paſſed both the Houſes; they ſhall bee read openly, that yee may heare them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
